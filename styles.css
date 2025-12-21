@@ -12,6 +12,7 @@ a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}.co
 .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin:28px 0}.feature{padding:18px}.feature h3{margin:10px 0 6px}.feature p{color:var(--muted);margin:0}
 .feature img{width:100%;border-radius:12px;border:1px solid rgba(255,255,255,.08);max-height:220px;object-fit:cover}.kicker{letter-spacing:.12em;color:var(--accent);font-weight:700;font-size:12px;text-transform:uppercase}
 .section{padding:18px}.section h3{font-size:26px;margin:.2em 0 .4em}.section p{color:var(--muted)}.section .list{display:grid;grid-template-columns:1fr 1fr;gap:14px}.card.pad{padding:22px}
+.hero-below{margin-top:18px}
 .footer{display:flex;gap:14px;flex-wrap:wrap;justify-content:space-between;align-items:center;margin:36px 0 12px}.footer nav a{margin-right:14px;color:var(--muted)}.small{font-size:13px;color:var(--muted)}.notice{font-size:12px;color:var(--muted)}
 ul.clean{padding-left:18px;margin:8px 0}ul.clean li{margin:6px 0;color:var(--muted)}hr.soft{border:0;border-top:1px solid rgba(255,255,255,.08);margin:22px 0}
 @media (max-width:980px){.hero{grid-template-columns:1fr;gap:18px}.grid{grid-template-columns:1fr 1fr}}
